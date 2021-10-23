@@ -1,4 +1,3 @@
-//1.1
 function sum(numberOne , numberTwo) {
     if (numberOne==undefined&&numberTwo==undefined){
         return('Los numeros deben venir definidos. ');
